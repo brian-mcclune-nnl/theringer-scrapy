@@ -7,8 +7,8 @@ journalists for the content!
 
 ## The project: theringer
 
-The Scrapy project is a simple one, with a single spider. The project
-was created by running:
+The [Scrapy](https://scrapy.org) project is a simple one, with a single
+spider. The project was created by running:
 
 ```powershell
 \> scrapy startproject theringer
