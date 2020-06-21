@@ -22,7 +22,7 @@ The environment for running scrapy can be created using the included
 `package-list.txt` file:
 
 ```powershell
-\> conda create -name ringer --file the-package-list.txt
+\> conda create -name ringer --file package-list.txt
 ```
 
 ## Spiders
